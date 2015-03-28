@@ -1,4 +1,4 @@
-package myfirstapp.hfad.com.myfirstapp;
+package com.hfad.myfirstapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
