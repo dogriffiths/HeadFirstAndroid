@@ -127,3 +127,19 @@ section-number-4 img {
     clear: left;
   }
 }
+
+.side_image {
+    float: left;
+    width: 180px;
+    height: 200px;
+    transform:rotate(-5deg);
+    -webkit-transform:rotate(-5deg);
+    -moz-transform:rotate(-5deg);
+    padding: 0px 0px 0px 0px;
+    border-width: 0px 0px 0px 0px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    -moz-box-shadow:    3px 0px 15px 0px #888;
+    -webkit-box-shadow: 3px 0px 15px 0px #888;
+    box-shadow:         3px 0px 15px 0px #888;
+}
