@@ -60,9 +60,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
-  font-weight: 700;
+  font-weight: 300;
   color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: 'Freckle Face', 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
 
@@ -261,7 +261,7 @@ Full-Width Styles
 *******************************************************************************/
 
 .outer {
-  width: 100%;
+    width: 100%;
 }
 
 .inner {
@@ -269,6 +269,10 @@ Full-Width Styles
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
+}
+
+header.inner {
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 #forkme_banner {
@@ -287,12 +291,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+    background: url('https://dl.dropboxusercontent.com/u/6007591/headfirstdroidbanner.png');
 }
 
 #header_wrap .inner {
@@ -301,18 +300,18 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: #fff;
+  color: #222;
   font-size: 42px;
-  font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
+  font-weight: 100;
+  text-shadow: #888 0px 0px 10px;
 }
 
 #project_tagline {
-  color: #fff;
+  color: #222;
   font-size: 24px;
-  font-weight: 300;
+  font-weight: 100;
   background: none;
-  text-shadow: #111 0px 0px 10px;
+  text-shadow: #888 0px 0px 10px;
 }
 
 #downloads {
@@ -368,6 +367,21 @@ Full-Width Styles
   background: #212121;
 }
 
+.book_cover {
+    width: 180px;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    left: -250px;
+    transform:rotate(-5deg);
+    -webkit-transform:rotate(-5deg);
+    -moz-transform:rotate(-5deg);
+    padding: 0px 0px 0px 0px;
+    border-width: 0px 0px 0px 0px;
+    -moz-box-shadow:    3px 0px 15px 0px #888;
+    -webkit-box-shadow: 3px 0px 15px 0px #888;
+    box-shadow:         3px 0px 15px 0px #888;
+}
 
 
 /*******************************************************************************
@@ -421,5 +435,10 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
+}
 
+@media screen and (max-width: 1200px) {
+  .book_cover {
+      display: none;
+  }
 }
