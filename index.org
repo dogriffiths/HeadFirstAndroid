@@ -4,9 +4,9 @@
 #+AUTHOR: Dawn Griffiths and David Griffiths
 #+HTML_HEAD: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"/>
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"/>
-#+HTML_HEAD_EXTRA: <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-#+HTML_HEAD_EXTRA: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-#+HTML_HEAD_EXTRA: <script src="javascripts/main.js"></script>
+#+HTML_HEAD_EXTRA: <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="javascripts/main.js" type="text/javascript"></script>
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Freckle+Face' rel='stylesheet' type='text/css'/>
 #+HTML_HEAD_EXTRA: <link href='stylesheets/styles.css' rel='stylesheet' type='text/css'/>
 #+OPTIONS: toc:nil
