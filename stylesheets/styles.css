@@ -155,4 +155,7 @@ section-number-4 img {
         margin-bottom: 20px;
         margin-right: 30px;
     }
+    .org-src-container {
+        overflow: hidden;
+    }
 }
