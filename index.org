@@ -11,6 +11,12 @@
 #+HTML_HEAD_EXTRA: <link href='stylesheets/styles.css' rel='stylesheet' type='text/css'>
 #+OPTIONS: toc:nil
 
+* Get the book
+[[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][
+file:images/hfacover.jpg]]
+
+[[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][Head First Android Development]] cuts through the fog of dozens of components, hundreds of API calls and focuses on the core skills you need. Do you want a book that is more than simply a reproduction of the online documentation? A book that is more like a course, taking you step-by-step through the development of real applications, just as if an experienced Android developer was sitting right next to you? This book teaches Android development by getting you to /do/ Android development.
+
 * Get the source code
 
 On this page you can find extra information and source code for the book [[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][Head First Android Development]]. 
@@ -24,10 +30,6 @@ $ ls
 #+END_SRC
 
 * Table of contents
-
-[[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][file:images/hfacover.jpg]]
-
-[[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][Head First Android Development]] cuts through the fog of dozens of components, hundreds of API calls and focuses on the core skills you need. Do you want a book that is more than simply a reproduction of the online documentation? A book that is more like a course, taking you step-by-step through the development of real applications, just as if an experienced Android developer was sitting right next to you? This book teaches Android development by getting you to /do/ Android development.
 
 ** Chapter 1: Getting started
 
