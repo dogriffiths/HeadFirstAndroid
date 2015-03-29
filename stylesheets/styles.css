@@ -143,3 +143,10 @@ section-number-4 img {
     -webkit-box-shadow: 3px 0px 15px 0px #888;
     box-shadow:         3px 0px 15px 0px #888;
 }
+
+@media (max-width: 640px) {
+    body {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
