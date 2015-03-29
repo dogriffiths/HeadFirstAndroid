@@ -31,7 +31,7 @@ These are the chapters and appendices in the book.
 
 Android has been taking the world by storm. Everybody wants a smart phone or tablet, and Android devices are hugely popular. In this book we’ll teach you how to *develop your own apps*, and we’ll start by getting you to build a basic app and run it on an Android Virtual Device. Along the way you’ll meet some of the basic components of all Android apps such as activities and layouts. *All you need is a little Java know-how...*
 
-*Apps you'll build:* [[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter1/MyFirstApp"][MyFirstApp]]
+*Apps you'll build:* [[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter1/MyFirstApp][MyFirstApp]]
 
 [[file:images/chap01img.png]]
 
@@ -39,7 +39,7 @@ Android has been taking the world by storm. Everybody wants a smart phone or tab
 
 Most apps need to respond to the user in some way. And in this chapter you’ll see how you can make your apps /a bit more interactive/. You’ll see how you can get your app to /*do*/ something in response to what the user does, and *how to get your activity and layout talking to each other* like best buddies. And along the way we’ll take you a bit *deeper* into /*how Android actually works*/ by introducing you to R, the hidden gem that glues everything together.
 
-*Apps you'll build:* [[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter2/BeerAdviser"][BeerAdviser]]
+*Apps you'll build:* [[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter2/BeerAdviser][BeerAdviser]]
 
 [[file:images/chap02img.png]]
 
@@ -47,7 +47,7 @@ Most apps need to respond to the user in some way. And in this chapter you’ll 
 
 Most apps need more than one activity. So far we’ve just looked at single-activity apps, which is fine for simple apps. But when things get more complicated, just having the one activity won’t cut it. We’re going to show you *how to build apps with multiple activities*, and how you can get your apps talking to each other using intents. We’ll also look at how you can use intents to *go beyond the boundaries of your app* and *make activities in other apps on your device perform /actions/*. Things just got a whole lot more powerful...
 
-*Apps you'll build:* [[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter3/Messenger"][Messenger]]
+*Apps you'll build:* [[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter3/Messenger][Messenger]]
 
 [[file:images/chap03img.png]]
 
