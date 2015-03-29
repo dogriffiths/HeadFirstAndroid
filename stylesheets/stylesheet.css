@@ -171,16 +171,14 @@ pre, code {
 }
 
 pre {
-  width: 100%;
+  width: 90%;
   padding: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
   overflow: auto;
 }
 
 code {
   padding: 3px;
   margin: 0 3px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 
 pre code {
@@ -269,6 +267,18 @@ Full-Width Styles
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
+}
+
+.middle-pillar {
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+img.preview {
+    width: 620px;
+    border-width: 0px;
+    box-shadow: none;
 }
 
 header.inner {
