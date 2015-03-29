@@ -7,7 +7,7 @@ $(function() {
     $(".outline-3 .figure img").css('max-width', '300px');
 //    $(".outline-3 .figure img").addClass('img-responsive');
     $(".outline-3 a").addClass('btn').addClass('btn-success');
-    $(".outline-3").addClass("panel panel-default");
+    $(".outline-3").addClass("panel panel-default").css('border-width', '0px').css('box-shadow', 'none');
     $(".outline-3 h3").addClass("panel-heading");
     $(".outline-text-3").addClass("panel-body");
 })
