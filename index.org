@@ -20,10 +20,9 @@ You can download the source code in [[https://github.com/dogriffiths/HeadFirstAn
 #+BEGIN_SRC shell interactive 
 $ git clone https://github.com/dogriffiths/HeadFirstAndroid.git
 $ cd HeadFirstAndroid
-$ ls</pre></code>
+$ ls
 #+END_SRC
 
-* Follow us on Twitter
 * Table of contents
 
 These are the chapters and appendices in the book.
