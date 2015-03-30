@@ -10,7 +10,9 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Freckle+Face' rel='stylesheet' type='text/css'/>
 #+HTML_HEAD_EXTRA: <link href='stylesheets/styles.css' rel='stylesheet' type='text/css'/>
 #+HTML_HEAD_EXTRA: <meta name = "viewport" content = "width = device-width,  initial-scale = 1.0, user-scalable = yes"/>
-#+OPTIONS: toc:nil num:1
+#+HTML_HEAD_EXTRA: <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+#+HTML_HEAD_EXTRA: <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+#+OPTIONS: toc:0 num:1
 
 * Get the book
 [[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][
@@ -138,3 +140,14 @@ Ever felt like you were spending all your time waiting for the emulator? There�
 ** Appendix 4: Top Ten Things (We Didn't Cover)
 
 Even after all that, there’s still a little more. There are just a few more things we think you need to know. We wouldn’t feel right about ignoring them, and we really wanted to give you a book you’d be able to lift without extensive training at the local gym. Before you put down the book, *read through these tidbits*.
+
+* Stay up to date
+
+#+ATTR_HTML: :class twitter-follow-button :data-show-count false
+[[https://twitter.com/HeadFirstDroid][Follow @HeadFirstDroid]]
+
+#+ATTR_HTML: :class twitter-timeline :data-widget-id 582221058427654144
+[[https://twitter.com/HeadFirstDroid][Tweets by @HeadFirstDroid]]
+
+
+
