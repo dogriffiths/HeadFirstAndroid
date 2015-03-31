@@ -19,9 +19,8 @@
 
         var id = $(this).attr("id"), i, s = "",dt;
         $("#" + id).empty().append('<img src="loader.gif" />');
-
         $.ajax({
-            url: "//ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=" + def.MaxCount + "&output=json&q=" + encodeURIComponent(def.FeedUrl) + "&hl=en&callback=?",
+            url: (location.protocol == "file:" ? "http:" : "") + "//ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=" + def.MaxCount + "&output=json&q=" + encodeURIComponent(def.FeedUrl) + "&hl=en&callback=?",
             dataType: "json",
             success: function (data) {
                 $("#" + id).empty();
