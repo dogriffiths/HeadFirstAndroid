@@ -56,6 +56,10 @@ Most apps need more than one activity. So far we’ve just looked at single-acti
 
 Activities form the foundation of every Android app. So far you’ve seen how to create activities, and made one activity start another using an intent. But what’s /really going on beneath the hood?/ In this chapter we’re going to dig a little deeper into *the activity lifecycle*. What happens when an activity is /*created*/ and /*destroyed*/? Which methods get called when an activity is /made visible and appears in the foreground/, and which get called when the activity /loses the focus and is hidden?/ And *how do you save and restore your activity’s state*?
 
+*Apps you'll build:* 
+#+ATTR_HTML: :class btn btn-success
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter4/Stopwatch][Stopwatch]]
+
 [[file:images/chap04img.png]]
 
 ** Chapter 5: The user interface
