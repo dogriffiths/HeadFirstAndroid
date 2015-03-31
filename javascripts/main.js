@@ -29,5 +29,9 @@ $(function() {
         }
     });
 
+            $('#divRss').FeedEk({
+                FeedUrl: 'https://medium.com/feed/@HeadFirstDroid',
+                MaxCount: 3
+            });
 
 })
