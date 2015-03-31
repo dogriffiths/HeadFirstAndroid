@@ -71,47 +71,47 @@ to get organized/. In this chapter we’ll show you how you can take a bunch of 
 
 [[file:images/chap06img.png]]
 
-** Chapter 7: SQLite databases
-
-If you’re recording high scores or saving tweets, your app will need to store data. And on Android you usually keep your data safe inside a *SQLite database*. In this chapter, we’ll show you how to /create a database, add tables to it/, and /prepopulate it with data/, all with the help of the friendly *SQLite helper*. You’ll then see how you can cleanly roll out /upgrades/ to your database structure, and how to /downgrade/ it if you need pull any changes.
-
-[[file:images/chap07img.png]]
-
-** Chapter 8: Cursors and AsyncTasks
-
-So how do you connect your app to a SQLite database? So far you’ve seen how to create a SQLite database using a SQLite helper. The next step is to get your activities to access it. In this chapter you’ll find out how to use *cursors* to get data from the database, how to /navigate/ through cursors and how to /get data from them/. You’ll then find out how to use *cursor adapters* to connect them to list views. Finally, you’ll see how writing efficient /multi-threaded/ code with *AsyncTasks* will keep your app speedy.
-
-[[file:images/chap08img.png]]
-
-** Chapter 9: Services
-
-There are some operations you want to keep on running irrespective of which app has the focus. As an example, If you start playing a music file in a music app, you probably expect it to keep on playing when you switch to another app. In this chapter you’ll see how to use *Services* to deal with situations just like this. Along the way you’ll see how use some of *Android’s built-in services*. You’ll see how to to keep your users informed with the /notification service/, and how the /location service/ can tell you where you’re located.
-
-[[file:images/chap09img.png]]
-
-** Chapter 10: Fragments
+** Chapter 7: Fragments
 
 You’ve seen how to create apps that work in the same way irrespective of the device they’re running on. But what if you want your app to look and /behave differently/ depending on whether it’s running on a /phone/ or a /tablet/? In this chapter we’ll show you how to make your app choose the *most appropriate layout for the device screen size*. We’ll also introduce you to *fragments*, a way of creating /modular code components/ that can be /reused by different activities/.
 
 [[file:images/chap10img.png]]
 
-** Chapter 11: Nested fragments
+** Chapter 8: Nested fragments
 
 You’ve seen how using fragments in activities allow you to reuse code and make your apps more flexible. In this chapter we’re going to show you /how to nest one fragment inside another/. You’ll see how to use the *child fragment manager* to tame unruly fragment transactions. And along the way you’ll see why knowing the differences between activities and fragments is so important.
 
 [[file:images/chap11img.png]]
 
-** Chapter 12: Action Bars
+** Chapter 9: Action Bars
 
 Everybody likes a shortcut. And in this chapter you’ll see how to add shortcuts to your apps using *action bars*. We’ll show you how to start other activities by *adding action items* to your action bar, how to share content with other apps using the *share action provider*, and how to navigate up your app’s hierarchy by implementing *the action bar’s Up button*. Along the way you’ll see how to give your app a consistant look and feel using *themes*, and introduce you to the Android support library package.
 
 [[file:images/chap12img.png]]
 
-** Chapter 13: Navigation Drawers
+** Chapter 10: Navigation Drawers
 
 Apps are so much better when they’re easy to navigate. In this chapter we’re going to introduce you to the *navigation drawer*, a slide-out panel that appears when you swipe your finger or click an icon on the action bar. We’ll show you how to use it to display a /list of links/ that take you to *all the major hubs* of your app. You’ll also see how /switching fragments/ makes those hubs *easy to get to* and *fast to display*.
 
 [[file:images/chap13img.png]]
+
+** Chapter 11: SQLite databases
+
+If you’re recording high scores or saving tweets, your app will need to store data. And on Android you usually keep your data safe inside a *SQLite database*. In this chapter, we’ll show you how to /create a database, add tables to it/, and /prepopulate it with data/, all with the help of the friendly *SQLite helper*. You’ll then see how you can cleanly roll out /upgrades/ to your database structure, and how to /downgrade/ it if you need pull any changes.
+
+[[file:images/chap07img.png]]
+
+** Chapter 12: Cursors and AsyncTasks
+
+So how do you connect your app to a SQLite database? So far you’ve seen how to create a SQLite database using a SQLite helper. The next step is to get your activities to access it. In this chapter you’ll find out how to use *cursors* to get data from the database, how to /navigate/ through cursors and how to /get data from them/. You’ll then find out how to use *cursor adapters* to connect them to list views. Finally, you’ll see how writing efficient /multi-threaded/ code with *AsyncTasks* will keep your app speedy.
+
+[[file:images/chap08img.png]]
+
+** Chapter 13: Services
+
+There are some operations you want to keep on running irrespective of which app has the focus. As an example, If you start playing a music file in a music app, you probably expect it to keep on playing when you switch to another app. In this chapter you’ll see how to use *Services* to deal with situations just like this. Along the way you’ll see how use some of *Android’s built-in services*. You’ll see how to to keep your users informed with the /notification service/, and how the /location service/ can tell you where you’re located.
+
+[[file:images/chap09img.png]]
 
 ** Chapter 14: Material Design
 
