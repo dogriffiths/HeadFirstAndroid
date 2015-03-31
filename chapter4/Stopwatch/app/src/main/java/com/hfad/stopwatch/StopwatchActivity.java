@@ -26,28 +26,6 @@ public class StopwatchActivity extends Activity {
     }
 
     @Override
-    public void onSaveInstanceState(Bundle savedInstanceState) {
-        savedInstanceState.putInt("seconds", seconds);
-        savedInstanceState.putBoolean("running", running);
-        savedInstanceState.putBoolean("wasRunning", wasRunning);
-    }
-
-    @Override
-    protected void onStop() {
-        super.onStop();
-        wasRunning = running;
-        running = false;
-    }
-
-    @Override
-    protected void onStart() {
-        super.onStart();
-        if (wasRunning) {
-            running = true;
-        }
-    }
-
-    @Override
     protected void onPause() {
         super.onPause();
         wasRunning = running;
@@ -62,6 +40,13 @@ public class StopwatchActivity extends Activity {
         }
     }
     
+    @Override
+    public void onSaveInstanceState(Bundle savedInstanceState) {
+        savedInstanceState.putInt("seconds", seconds);
+        savedInstanceState.putBoolean("running", running);
+        savedInstanceState.putBoolean("wasRunning", wasRunning);
+    }
+
     //Start the stopwatch running when the Start button is clicked.
     public void onClickStart(View view) {
         running = true;
