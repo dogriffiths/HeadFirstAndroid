@@ -167,8 +167,9 @@ section-number-4 img {
 /*.feedEkList img {max-width: 497px;}*/
 .feedEkList img {max-width: 440px;}
 @media (max-width: 995px) {
-.feedEkList img {max-width: 497px;}
-.feedEkList{width:519px;}
+    .feedEkList img {max-width: 497px;}
+    #divRss{max-width: 100%;}
+.feedEkList{width:460px; max-width: 100%; min-width: 180px;}
 }
 .feedEkList li{border-bottom:1px solid #D3CAD7; padding:5px;}
 .feedEkList li:last-child{border-bottom:none;}
