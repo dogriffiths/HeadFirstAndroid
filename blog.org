@@ -1,0 +1,9 @@
+#+TITLE: Head First Android Blog
+#+STARTUP: hideblocks
+#+AUTHOR: Dawn Griffiths and David Griffiths
+#+OPTIONS: num:0
+
+* Blog
+** [[file:androidBlogs.html][Android is a community]]
+
+Android is not just an operating system--it's a community. If you want to become an Android developer, it's important to become involved in the community. This is a rundown of what we think are the best Android blogs and news sites out there.

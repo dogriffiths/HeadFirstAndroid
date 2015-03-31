@@ -1,0 +1,81 @@
+#+TITLE: 16 Great Android Blogs to Follow
+#+STARTUP: hideblocks
+#+AUTHOR: Dawn Griffiths and David Griffiths
+#+OPTIONS: num:0
+
+* Android is a community
+
+Android is not just an operating system--it's a community. If you want to become an Android developer, it's important to become involved in the community. This is a rundown of what we think are the best Android blogs and news sites out there.
+
+** [[http://android-developers.blogspot.com/][Android Developers Blog]]
+If you do *any* amount of Android development, then you should be following this blog. The [Android Developers Blog] is run by Google, and it's worth watching for the latest announcements and details of how to use the latest features.
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/flighttrack.png]]
+
+** [[http://www.planetandroid.com/][Planet Android]]
+Don't let the slightly old-fashioned interface fool you, this blog is right up-to-date with all the latest in Android development and technology. With news of the latest devices and apps, and in-depth articles on different aspects of Android development, this is definitely one to watch.
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/Walking-Dead-Pinball-Android-Game-Review-1.jpg]]
+
+** [[http://www.droid-life.com/][Droid Life]]
+Probably the best Android news site on the web. We think you should definitely take a look.
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/motorola-unveiling.jpg]]
+
+** [[http://www.androidguys.com][AndroidGuys]]
+The latest news and opinion from the Android world. Includes [[http://www.androidguys.com/category/school-of-android/android-101/][Android 101]] lessons in Android.
+
+https://www.youtube.com/watch?v=f1Zfmx3GXgo
+
+** [[http://oreilly.com/android/][Android Updates from O'Reilly]]
+Of course, we are bound to mention O'Reilly Media... This is the page that contains the latest details of the latest Android books, videos and conferences.
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/ml-header-home-blinking.gif]]
+
+** [[http://phandroid.com/][Phandroid]]
+News and opinions and very active forums over at the [[http://androidforums.com][Android Forums]].
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/20140903_054053-640x360.jpg]]
+
+** [[http://www.helloandroid.com/][Hello Android]]
+Great site. Be sure to check out the [[http://www.helloandroid.com/tutorials][tutorials]].
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/helloandroid.png]]
+
+** [[http://www.grokkingandroid.com/][Grokking Android]]
+Wolfram Rittmeyer, a software-developer from Germany.
+
+** [[http://www.androidcentral.com/][Android Central]]
+A site with attitude. Check out Android Central for the latest news and headlines.
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/podcast_featured.jpg]]
+
+** [[http://www.talkandroid.com/][Talk Android]]
+More talk, news and guides on this Canadian blog.
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/talkandroidlogo.png]]
+
+** [[http://ptrprograms.blogspot.co.uk/][PTR Android Blog]]
+Some great programming articles from Paul Trebilcox-Ruiz.
+
+** [[http://mylifewithandroid.blogspot.com/][My life with Android]]
+A very personal take on Android from this Hungarian researcher.
+
+https://www.youtube.com/watch?v=iYWIzbJK81U
+
+** [[https://plus.google.com/+GabrieleMariotti/posts][Gabriele Mariotti]]
+Android developer with some very cool UI code.
+
+** [[https://medium.com/@Razvan/][Razvan]]
+Mobile developer
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/razvan.png]]
+
+** [[http://raptordigital.blogspot.co.uk/][Raptor Digital]]
+UK-based Android developer.
+
+** [[http://shaneenishry.com/][Shanee's Diaries]]
+Game Programmer & Developer Advocate @ Google
+
+[[https://dl.dropboxusercontent.com/u/6007591/listlist/LODExperiments.JPEG]]
+
