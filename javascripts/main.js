@@ -30,7 +30,7 @@ $(function() {
     });
 
             $('#divRss').FeedEk({
-                FeedUrl: 'https://medium.com/feed/@tcarmody',
+                FeedUrl: 'https://medium.com/feed/@HeadFirstDroid',
                 MaxCount: 3
             });
 
