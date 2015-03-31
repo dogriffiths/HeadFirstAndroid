@@ -46,6 +46,21 @@ public class StopwatchActivity extends Activity {
             running = true;
         }
     }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        wasRunning = running;
+        running = false;
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if (wasRunning) {
+            running = true;
+        }
+    }
     
     //Start the stopwatch running when the Start button is clicked.
     public void onClickStart(View view) {
