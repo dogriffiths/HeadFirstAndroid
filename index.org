@@ -141,8 +141,15 @@ Even after all that, there’s still a little more. There are just a few more th
 
 * Stay up to date
 
-#+ATTR_HTML: :class twitter-follow-button :data-show-count false
-[[https://twitter.com/HeadFirstDroid][Follow @HeadFirstDroid]]
+#+HTML: <div class="container-fluid">
+#+HTML: <div class="row">
+#+HTML: <div class="col-lg-5 col-md-6">
+*[[https://medium.com/@HeadFirstDroid][Medium Blog Posts]]*
+#+HTML: <div id="divRss"></div>
+#+HTML: </div>
 
+#+HTML: <div class="col-lg-5 col-md-6">
 #+ATTR_HTML: :class twitter-timeline :data-widget-id 582221058427654144
 [[https://twitter.com/HeadFirstDroid][Tweets by @HeadFirstDroid]]
+#+HTML: </div>
+#+HTML: </div></div>

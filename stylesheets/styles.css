@@ -161,8 +161,15 @@ section-number-4 img {
 }
 
 
-
-.feedEkList{width:450px; list-style:none outside none;background-color:#FFFFFF; border:1px solid #D3CAD7; padding:4px 6px; color:#3E3E3E;}
+#divRss {float: left; max-height: 550px; overflow-y: scroll; margin-bottom: 15px; border-width: 0px 0px 1px 0px; border-style: solid; border-color: #ccc;}
+/*.feedEkList{width:520px; list-style:none outside none;background-color:#FFFFFF; border:1px solid #D3CAD7; padding:4px 6px; color:#3E3E3E; overflow: hidden;}*/
+.feedEkList{list-style:none outside none;background-color:#FFFFFF; border:1px solid #D3CAD7; padding:4px 6px; color:#3E3E3E; overflow-x: hidden;}
+/*.feedEkList img {max-width: 497px;}*/
+.feedEkList img {max-width: 440px;}
+@media (max-width: 995px) {
+.feedEkList img {max-width: 497px;}
+.feedEkList{width:519px;}
+}
 .feedEkList li{border-bottom:1px solid #D3CAD7; padding:5px;}
 .feedEkList li:last-child{border-bottom:none;}
 .itemTitle a{font-weight:bold; color:#4EBAFF !important; text-decoration:none }
