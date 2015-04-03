@@ -24,6 +24,8 @@
 <li><a href="#sec-1-18">1.18. Appendix 4: Top Ten Things (We Didn't Cover)</a></li>
 </ul>
 </li>
+<li><a href="#sec-2">2. Get the book</a></li>
+<li><a href="#sec-3">3. Social Media</a></li>
 </ul>
 </div>
 </div>
@@ -38,7 +40,7 @@ Android has been taking the world by storm. Everybody wants a smart phone or tab
 
 [MyFirstApp](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter1/MyFirstApp)
 
-![img](images/chap01img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap01img.png)
 
 ## Chapter 2: Building Interactive Apps
 
@@ -48,7 +50,7 @@ Most apps need to respond to the user in some way. And in this chapter you’ll 
 
 [BeerAdviser](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter2/BeerAdviser)
 
-![img](images/chap02img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap02img.png)
 
 ## Chapter 3: Multiple activities and intents
 
@@ -58,7 +60,7 @@ Most apps need more than one activity. So far we’ve just looked at single-acti
 
 [Messenger](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter3/Messenger)
 
-![img](images/chap03img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap03img.png)
 
 ## Chapter 4: The activity lifecycle
 
@@ -68,68 +70,68 @@ Activities form the foundation of every Android app. So far you’ve seen how to
 
 [Stopwatch](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter4/Stopwatch)
 
-![img](images/chap04img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap04img.png)
 
 ## Chapter 5: The user interface
 
 Let’s face it, you need to know how to create great layouts. If you’re building apps you want people to use, you need to make sure they **look just the way you want**. So far we’ve only scratched the surface when it comes to creating layouts, so it’s time to look a *little deeper*. We’ll introduce you to more **types of layout** you can use, and we’ll also take you on a tour of the **main GUI components** and how you use them. By the end of the chapter you’ll see that even though they all look a little different, all layouts and GUI components have ***more in common than you might think.***
 
-![img](images/chap05img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap05img.png)
 
 ## Chapter 6: List views and adapters
 
 Want to know how to best structure your Android app? You’ve learned some of the basic pieces that are user to build apps, and now *it’s time
 to get organized*. In this chapter we’ll show you how you can take a bunch of ideas and ***structure them to build an awesome app***. We’ll show you how **lists of data** can form the core part of your app design, and how **linking them together** can create a *powerful and easy-to-use app*. Along the way, you get your first glimpse of using **event listeners** and **adapters** to make your app more dynamic.
 
-![img](images/chap06img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap06img.png)
 
 ## Chapter 7: Fragments
 
 You’ve seen how to create apps that work in the same way irrespective of the device they’re running on. But what if you want your app to look and *behave differently* depending on whether it’s running on a *phone* or a *tablet*? In this chapter we’ll show you how to make your app choose the **most appropriate layout for the device screen size**. We’ll also introduce you to **fragments**, a way of creating *modular code components* that can be *reused by different activities*.
 
-![img](images/chap10img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap10img.png)
 
 ## Chapter 8: Nested fragments
 
 You’ve seen how using fragments in activities allow you to reuse code and make your apps more flexible. In this chapter we’re going to show you *how to nest one fragment inside another*. You’ll see how to use the **child fragment manager** to tame unruly fragment transactions. And along the way you’ll see why knowing the differences between activities and fragments is so important.
 
-![img](images/chap11img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap11img.png)
 
 ## Chapter 9: Action Bars
 
 Everybody likes a shortcut. And in this chapter you’ll see how to add shortcuts to your apps using **action bars**. We’ll show you how to start other activities by **adding action items** to your action bar, how to share content with other apps using the **share action provider**, and how to navigate up your app’s hierarchy by implementing **the action bar’s Up button**. Along the way you’ll see how to give your app a consistant look and feel using **themes**, and introduce you to the Android support library package.
 
-![img](images/chap12img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap12img.png)
 
 ## Chapter 10: Navigation Drawers
 
 Apps are so much better when they’re easy to navigate. In this chapter we’re going to introduce you to the **navigation drawer**, a slide-out panel that appears when you swipe your finger or click an icon on the action bar. We’ll show you how to use it to display a *list of links* that take you to **all the major hubs** of your app. You’ll also see how *switching fragments* makes those hubs **easy to get to** and **fast to display**.
 
-![img](images/chap13img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap13img.png)
 
 ## Chapter 11: SQLite databases
 
 If you’re recording high scores or saving tweets, your app will need to store data. And on Android you usually keep your data safe inside a **SQLite database**. In this chapter, we’ll show you how to *create a database, add tables to it*, and *prepopulate it with data*, all with the help of the friendly **SQLite helper**. You’ll then see how you can cleanly roll out *upgrades* to your database structure, and how to *downgrade* it if you need pull any changes.
 
-![img](images/chap07img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap07img.png)
 
 ## Chapter 12: Cursors and AsyncTasks
 
 So how do you connect your app to a SQLite database? So far you’ve seen how to create a SQLite database using a SQLite helper. The next step is to get your activities to access it. In this chapter you’ll find out how to use **cursors** to get data from the database, how to *navigate* through cursors and how to *get data from them*. You’ll then find out how to use **cursor adapters** to connect them to list views. Finally, you’ll see how writing efficient *multi-threaded* code with **AsyncTasks** will keep your app speedy.
 
-![img](images/chap08img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap08img.png)
 
 ## Chapter 13: Services
 
 There are some operations you want to keep on running irrespective of which app has the focus. As an example, If you start playing a music file in a music app, you probably expect it to keep on playing when you switch to another app. In this chapter you’ll see how to use **Services** to deal with situations just like this. Along the way you’ll see how use some of **Android’s built-in services**. You’ll see how to to keep your users informed with the *notification service*, and how the *location service* can tell you where you’re located.
 
-![img](images/chap09img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap09img.png)
 
 ## Chapter 14: Material Design
 
 With API level 21, Google introduced Material Design. In this chapter we’ll look at **what Material Design is**, and how to make your apps fit in with it. We’ll start by introducing you to **card views** you can reuse across your app for a *consistent look and feel*. Then we’ll introduce you to the **recycler view**, the list view’s flexible friend. Along the way you’ll see how to **create your own adapters**, and how to completely change the look of a recycler view with *just two lines of code*.
 
-![img](images/chap14img.png)
+![img](//dogriffiths.github.io/HeadFirstAndroid/images/chap14img.png)
 
 ## Appendix 1: ART&#x2013;The Android Runtime
 
@@ -146,3 +148,14 @@ Ever felt like you were spending all your time waiting for the emulator? There�
 ## Appendix 4: Top Ten Things (We Didn't Cover)
 
 Even after all that, there’s still a little more. There are just a few more things we think you need to know. We wouldn’t feel right about ignoring them, and we really wanted to give you a book you’d be able to lift without extensive training at the local gym. Before you put down the book, **read through these tidbits**.
+
+# Get the book
+
+[![img](//dogriffiths.github.io/HeadFirstAndroid/images/hfacover.jpg)](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184)
+
+[Head First Android Development](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184) cuts through the fog of dozens of components, hundreds of API calls and focuses on the core skills you need. Do you want a book that is more than simply a reproduction of the online documentation? A book that is more like a course, taking you step-by-step through the development of real applications, just as if an experienced Android developer was sitting right next to you? This book teaches Android development by getting you to *do* Android development.
+
+# Social Media
+
+-   [Medium Blog Posts](https://medium.com/@HeadFirstDroid)
+-   [Tweets by @HeadFirstDroid](https://twitter.com/HeadFirstDroid)
