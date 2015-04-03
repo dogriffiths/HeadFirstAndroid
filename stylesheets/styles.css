@@ -20,6 +20,10 @@ h1 {
     font-weight: 700;
 }
 
+h1.title {
+    font-family: 'Special Elite', 'Freckle Face', 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+}
+
 h2 {
     padding-bottom: 10px;
     font-size: 32px;
