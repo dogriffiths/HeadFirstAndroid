@@ -82,6 +82,10 @@ Let’s face it, you need to know how to create great layouts. If you’re build
 Want to know how to best structure your Android app? You’ve learned some of the basic pieces that are user to build apps, and now *it’s time
 to get organized*. In this chapter we’ll show you how you can take a bunch of ideas and ***structure them to build an awesome app***. We’ll show you how **lists of data** can form the core part of your app design, and how **linking them together** can create a *powerful and easy-to-use app*. Along the way, you get your first glimpse of using **event listeners** and **adapters** to make your app more dynamic.
 
+**Apps you'll build:** 
+
+[Starbuzz](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter6/Starbuzz)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap06img.png)
 
 ## <a name="sec-1-7"></a>Chapter 7: Fragments
