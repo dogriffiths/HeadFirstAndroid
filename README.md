@@ -92,6 +92,10 @@ to get organized*. In this chapter we’ll show you how you can take a bunch of 
 
 You’ve seen how to create apps that work in the same way irrespective of the device they’re running on. But what if you want your app to look and *behave differently* depending on whether it’s running on a *phone* or a *tablet*? In this chapter we’ll show you how to make your app choose the **most appropriate layout for the device screen size**. We’ll also introduce you to **fragments**, a way of creating *modular code components* that can be *reused by different activities*.
 
+**Apps you'll build:** 
+
+[Workout](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter7/Workout)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap10img.png)
 
 ## <a name="sec-1-8"></a>Chapter 8: Nested fragments
