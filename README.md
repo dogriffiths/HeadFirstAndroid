@@ -102,6 +102,10 @@ You’ve seen how to create apps that work in the same way irrespective of the d
 
 You’ve seen how using fragments in activities allow you to reuse code and make your apps more flexible. In this chapter we’re going to show you *how to nest one fragment inside another*. You’ll see how to use the **child fragment manager** to tame unruly fragment transactions. And along the way you’ll see why knowing the differences between activities and fragments is so important.
 
+**Apps you'll build:** 
+
+[Workout (updated)](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter8/Workout)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap11img.png)
 
 ## <a name="sec-1-9"></a>Chapter 9: Action Bars
