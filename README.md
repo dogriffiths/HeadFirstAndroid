@@ -112,6 +112,10 @@ You’ve seen how using fragments in activities allow you to reuse code and make
 
 Everybody likes a shortcut. And in this chapter you’ll see how to add shortcuts to your apps using **action bars**. We’ll show you how to start other activities by **adding action items** to your action bar, how to share content with other apps using the **share action provider**, and how to navigate up your app’s hierarchy by implementing **the action bar’s Up button**. Along the way you’ll see how to give your app a consistant look and feel using **themes**, and introduce you to the Android support library package.
 
+**Apps you'll build:** 
+
+[BitsAndPizzas](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter9/BitsAndPizzas)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap12img.png)
 
 ## <a name="sec-1-10"></a>Chapter 10: Navigation Drawers
