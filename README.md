@@ -122,6 +122,10 @@ Everybody likes a shortcut. And in this chapter you’ll see how to add shortcut
 
 Apps are so much better when they’re easy to navigate. In this chapter we’re going to introduce you to the **navigation drawer**, a slide-out panel that appears when you swipe your finger or click an icon on the action bar. We’ll show you how to use it to display a *list of links* that take you to **all the major hubs** of your app. You’ll also see how *switching fragments* makes those hubs **easy to get to** and **fast to display**.
 
+**Apps you'll build:** 
+
+[BitsAndPizzas (updated)](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter10/BitsAndPizzas)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap13img.png)
 
 ## <a name="sec-1-11"></a>Chapter 11: SQLite databases
