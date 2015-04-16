@@ -142,6 +142,10 @@ If you’re recording high scores or saving tweets, your app will need to store 
 
 So how do you connect your app to a SQLite database? So far you’ve seen how to create a SQLite database using a SQLite helper. The next step is to get your activities to access it. In this chapter you’ll find out how to use **cursors** to get data from the database, how to *navigate* through cursors and how to *get data from them*. You’ll then find out how to use **cursor adapters** to connect them to list views. Finally, you’ll see how writing efficient *multi-threaded* code with **AsyncTasks** will keep your app speedy.
 
+**Apps you'll build:** 
+
+[Starbuzz (updated errr... again)](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter12/Starbuzz)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap08img.png)
 
 ## <a name="sec-1-13"></a>Chapter 13: Services
