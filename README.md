@@ -132,6 +132,10 @@ Apps are so much better when they’re easy to navigate. In this chapter we’re
 
 If you’re recording high scores or saving tweets, your app will need to store data. And on Android you usually keep your data safe inside a **SQLite database**. In this chapter, we’ll show you how to *create a database, add tables to it*, and *prepopulate it with data*, all with the help of the friendly **SQLite helper**. You’ll then see how you can cleanly roll out *upgrades* to your database structure, and how to *downgrade* it if you need pull any changes.
 
+**Apps you'll build:** 
+
+[Starbuzz (updated)](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter11/Starbuzz)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap07img.png)
 
 ## <a name="sec-1-12"></a>Chapter 12: Cursors and AsyncTasks
