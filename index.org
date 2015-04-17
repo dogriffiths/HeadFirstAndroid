@@ -20,6 +20,8 @@ $ cd HeadFirstAndroid
 $ ls
 #+END_SRC
 
+And don't forget: we're going to continue adding useful information to the [[https://github.com/dogriffiths/HeadFirstAndroid/wiki][Head First Android Wiki]].
+
 * Table of contents
 
 ** Chapter 1: Getting started
