@@ -176,7 +176,7 @@ Even after all that, there’s still a little more. There are just a few more th
 
 #+HTML: <div class="container-fluid">
 #+HTML: <div class="row">
-#+HTML: <div class="col-lg-5 col-md-6">
+#+HTML: <div class="col-lg-5 col-md-6" >
 *[[https://medium.com/@HeadFirstDroid][Medium Blog Posts]]*
 #+HTML: <div id="divRss"></div>
 #+HTML: </div>
