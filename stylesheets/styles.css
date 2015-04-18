@@ -179,4 +179,10 @@ section-number-4 img {
 .feedEkList li:last-child{border-bottom:none;}
 .itemTitle a{font-weight:bold; color:#4EBAFF !important; text-decoration:none }
 .itemTitle a:hover{ text-decoration:underline }
-.itemDate{font-size:11px;color:#AAAAAA;} 
+.itemDate{font-size:11px;color:#AAAAAA;}
+
+.nav-tab td {
+    width: 25%;
+    text-align: center;
+    font-family: 'Special Elite', 'Freckle Face', 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+}

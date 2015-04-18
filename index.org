@@ -2,6 +2,9 @@
 #+STARTUP: hideblocks
 #+AUTHOR: Dawn Griffiths and David Griffiths
 
+#+ATTR_HTML: :width 100% :class nav-tab
+| [[https://github.com/dogriffiths/HeadFirstAndroid][Source repository]] | [[https://twitter.com/HeadFirstDroid][Tweets]] | [[https://github.com/dogriffiths/HeadFirstAndroid/wiki][Wiki]] | [[https://medium.com/@HeadFirstDroid][Blog]] |
+
 * Get the book
 
 [[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][file:images/hfacover.jpg]]
