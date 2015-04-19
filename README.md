@@ -163,6 +163,10 @@ There are some operations you want to keep on running irrespective of which app 
 
 With API level 21, Google introduced Material Design. In this chapter we’ll look at **what Material Design is**, and how to make your apps fit in with it. We’ll start by introducing you to **card views** you can reuse across your app for a *consistent look and feel*. Then we’ll introduce you to the **recycler view**, the list view’s flexible friend. Along the way you’ll see how to **create your own adapters**, and how to completely change the look of a recycler view with *just two lines of code*.
 
+**Apps you'll build:** 
+
+[BitsAndPizzas (one more time)](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter14/BitsAndPizzas)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap14img.png)
 
 ## <a name="sec-1-15"></a>Appendix 1: ART&#x2013;The Android Runtime
