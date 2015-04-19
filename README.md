@@ -182,6 +182,8 @@ Even after all that, there’s still a little more. There are just a few more th
 
 [Head First Android Development](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184) cuts through the fog of dozens of components, hundreds of API calls and focuses on the core skills you need. Do you want a book that is more than simply a reproduction of the online documentation? A book that is more like a course, taking you step-by-step through the development of real applications, just as if an experienced Android developer was sitting right next to you? This book teaches Android development by getting you to *do* Android development.
 
+For more information, go to http://dogriffiths.github.io/HeadFirstAndroid
+
 # <a name="sec-3"></a>Social Media
 
 -   [Medium Blog Posts](https://medium.com/@HeadFirstDroid)
