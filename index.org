@@ -33,7 +33,7 @@ Android has been taking the world by storm. Everybody wants a smart phone or tab
 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter1/MyFirstApp][MyFirstApp]]
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter01/MyFirstApp][MyFirstApp]]
 
 [[file:images/chap01img.png]]
 
@@ -43,7 +43,7 @@ Most apps need to respond to the user in some way. And in this chapter you’ll 
 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter2/BeerAdviser][BeerAdviser]]
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter02/BeerAdviser][BeerAdviser]]
 
 [[file:images/chap02img.png]]
 
@@ -53,7 +53,7 @@ Most apps need more than one activity. So far we’ve just looked at single-acti
 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter3/Messenger][Messenger]]
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter03/Messenger][Messenger]]
 
 [[file:images/chap03img.png]]
 
@@ -63,7 +63,7 @@ Activities form the foundation of every Android app. So far you’ve seen how to
 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter4/Stopwatch][Stopwatch]]
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter04/Stopwatch][Stopwatch]]
 
 [[file:images/chap04img.png]]
 
@@ -80,7 +80,7 @@ to get organized/. In this chapter we’ll show you how you can take a bunch of 
 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter6/Starbuzz][Starbuzz]]
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter06/Starbuzz][Starbuzz]]
 
 [[file:images/chap06img.png]]
 
@@ -90,7 +90,7 @@ You’ve seen how to create apps that work in the same way irrespective of the d
 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter7/Workout][Workout]]
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter07/Workout][Workout]]
 
 [[file:images/chap10img.png]]
 
@@ -100,7 +100,7 @@ You’ve seen how using fragments in activities allow you to reuse code and make
 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter8/Workout][Workout (updated)]]
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter08/Workout][Workout (updated)]]
 
 [[file:images/chap11img.png]]
 
@@ -110,7 +110,7 @@ Everybody likes a shortcut. And in this chapter you’ll see how to add shortcut
 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter9/BitsAndPizzas][BitsAndPizzas]]
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter09/BitsAndPizzas][BitsAndPizzas]]
 
 [[file:images/chap12img.png]]
 
