@@ -151,7 +151,9 @@ There are some operations you want to keep on running irrespective of which app 
 *Apps you'll build:* 
 #+ATTR_HTML: :class btn btn-success
 [[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter13/Joke][Joke]]
-[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter13/Odometer][Odometer]]
+
+#+ATTR_HTML: :class btn btn-success
+[[https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter13/Joke][Odometer]]
 
 [[file:images/chap09img.png]]
 
