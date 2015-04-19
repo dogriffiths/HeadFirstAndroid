@@ -37,7 +37,7 @@ Android has been taking the world by storm. Everybody wants a smart phone or tab
 
 **Apps you'll build:** 
 
-[MyFirstApp](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter1/MyFirstApp)
+[MyFirstApp](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter01/MyFirstApp)
 
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap01img.png)
 
@@ -47,7 +47,7 @@ Most apps need to respond to the user in some way. And in this chapter you’ll 
 
 **Apps you'll build:** 
 
-[BeerAdviser](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter2/BeerAdviser)
+[BeerAdviser](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter02/BeerAdviser)
 
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap02img.png)
 
@@ -57,7 +57,7 @@ Most apps need more than one activity. So far we’ve just looked at single-acti
 
 **Apps you'll build:** 
 
-[Messenger](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter3/Messenger)
+[Messenger](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter03/Messenger)
 
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap03img.png)
 
@@ -67,7 +67,7 @@ Activities form the foundation of every Android app. So far you’ve seen how to
 
 **Apps you'll build:** 
 
-[Stopwatch](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter4/Stopwatch)
+[Stopwatch](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter04/Stopwatch)
 
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap04img.png)
 
@@ -84,7 +84,7 @@ to get organized*. In this chapter we’ll show you how you can take a bunch of 
 
 **Apps you'll build:** 
 
-[Starbuzz](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter6/Starbuzz)
+[Starbuzz](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter06/Starbuzz)
 
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap06img.png)
 
@@ -94,7 +94,7 @@ You’ve seen how to create apps that work in the same way irrespective of the d
 
 **Apps you'll build:** 
 
-[Workout](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter7/Workout)
+[Workout](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter07/Workout)
 
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap10img.png)
 
@@ -104,7 +104,7 @@ You’ve seen how using fragments in activities allow you to reuse code and make
 
 **Apps you'll build:** 
 
-[Workout (updated)](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter8/Workout)
+[Workout (updated)](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter08/Workout)
 
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap11img.png)
 
@@ -114,7 +114,7 @@ Everybody likes a shortcut. And in this chapter you’ll see how to add shortcut
 
 **Apps you'll build:** 
 
-[BitsAndPizzas](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter9/BitsAndPizzas)
+[BitsAndPizzas](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter09/BitsAndPizzas)
 
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap12img.png)
 
