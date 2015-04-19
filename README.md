@@ -152,6 +152,11 @@ So how do you connect your app to a SQLite database? So far you’ve seen how to
 
 There are some operations you want to keep on running irrespective of which app has the focus. As an example, If you start playing a music file in a music app, you probably expect it to keep on playing when you switch to another app. In this chapter you’ll see how to use **Services** to deal with situations just like this. Along the way you’ll see how use some of **Android’s built-in services**. You’ll see how to to keep your users informed with the *notification service*, and how the *location service* can tell you where you’re located.
 
+**Apps you'll build:** 
+
+[Joke](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter13/Joke)
+[Odometer](https://github.com/dogriffiths/HeadFirstAndroid/tree/master/chapter13/Odometer)
+
 ![img](http://dogriffiths.github.io/HeadFirstAndroid/images/chap09img.png)
 
 ## <a name="sec-1-14"></a>Chapter 14: Material Design
