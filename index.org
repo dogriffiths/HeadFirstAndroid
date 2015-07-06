@@ -15,6 +15,7 @@
 
 [[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][Head First Android Development]] cuts through the fog of dozens of components, hundreds of API calls and focuses on the core skills you need. Do you want a book that is more than simply a reproduction of the online documentation? A book that is more like a course, taking you step-by-step through the development of real applications, just as if an experienced Android developer was sitting right next to you? This book teaches Android development by getting you to /do/ Android development.
 
+#+ATTR_HTML: :class btn btn-success
 [[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][Buy it now!]]
 
 * Get the source code
