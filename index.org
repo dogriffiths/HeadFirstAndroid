@@ -1,4 +1,6 @@
 #+TITLE: Head First Android Development
+#+DESCRIPTION: Head First Android Development
+#+KEYWORDS: Head First Android Development,Android Tutorial,Android Development,Android Development Book,Java,Head First,O'Reilly,O'Reilly Media
 #+STARTUP: hideblocks
 #+AUTHOR: Dawn Griffiths and David Griffiths
 
