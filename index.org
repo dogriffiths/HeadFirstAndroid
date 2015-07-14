@@ -9,7 +9,7 @@
 
 * Get the book
 
-[[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][file:images/hfacover.jpg]]
+[[http://www.amazon.com/gp/product/1449362184/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449362184&linkCode=as2&tag=headfirsandrd-20&linkId=XVAMZXE6BGEG6T2F][file:images/hfacover.jpg]]
 
 /*By far the best book to get you quickly up to speed with Android Development*/
 
