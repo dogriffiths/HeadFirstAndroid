@@ -22,7 +22,7 @@
 
 * Get the source code
 
-On this page you can find extra information and source code for the book [[http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184][Head First Android Development]]. 
+On this page you can find extra information and source code for the book [[http://www.amazon.com/gp/product/1449362184/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449362184&linkCode=as2&tag=headfirsandrd-20&linkId=XVAMZXE6BGEG6T2F][Head First Android Development]]. 
 
 You can download the source code in [[https://github.com/dogriffiths/HeadFirstAndroid/zipball/master][zip]] or [[https://github.com/dogriffiths/HeadFirstAndroid/tarball/master][tar.gz]] format. Or, if you have [[http://www.git-scm.com/][git]] installed, you can get your own copy of the [[https://github.com/dogriffiths/HeadFirstAndroid][source code repository]] by typing this on the command line:
 
