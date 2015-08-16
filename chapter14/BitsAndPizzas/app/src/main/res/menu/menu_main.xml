@@ -7,16 +7,16 @@
         android:title="@string/action_create_order"
         android:icon="@drawable/ic_action_new_event"
         android:orderInCategory="1"
-        app:showAsAction="ifRoom" />
+        android:showAsAction="ifRoom" />
 
   <item android:id="@+id/action_share"
         android:title="@string/action_share"
         android:orderInCategory="2"
-        app:showAsAction="ifRoom"
+        android:showAsAction="ifRoom"
         android:actionProviderClass="android.widget.ShareActionProvider" />
   
   <item android:id="@+id/action_settings"
         android:title="@string/action_settings"
         android:orderInCategory="100"
-        app:showAsAction="never" />
+        android:showAsAction="never" />
 </menu>
