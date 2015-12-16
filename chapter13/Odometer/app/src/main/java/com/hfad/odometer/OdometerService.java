@@ -15,6 +15,8 @@ public class OdometerService extends Service {
     private final IBinder binder = new OdometerBinder();
     private static double distanceInMeters;
     private static Location lastLocation = null;
+    private LocationListener listener;
+    private LocationManager locManager;
 
     public class OdometerBinder extends Binder {
         OdometerService getOdometer() {
@@ -29,7 +31,7 @@ public class OdometerService extends Service {
 
     @Override
     public void onCreate() {
-        LocationListener listener = new LocationListener() {
+        listener = new LocationListener() {
                 @Override
                 public void onLocationChanged(Location location) {
                     if (lastLocation == null) {
@@ -48,8 +50,17 @@ public class OdometerService extends Service {
                 @Override
                 public void onStatusChanged(String arg0, int arg1, Bundle bundle) {}
             };
-        LocationManager locManager = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
+        locManager = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
         locManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 1000, 1, listener);
+    }
+
+    @Override
+    public void onDestroy() {
+        if (locManager != null && listener != null) {
+            locManager.removeUpdates(listener);
+            locManager = null;
+            listener = null;
+        }
     }
 
     public double getMiles() {
