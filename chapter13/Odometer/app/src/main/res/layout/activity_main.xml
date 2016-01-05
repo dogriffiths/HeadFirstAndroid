@@ -11,5 +11,5 @@
             android:layout_height="match_parent"
             android:layout_centerHorizontal="true"
             android:singleLine="false"
-            android:textSize="60dp"/>
+            android:textSize="50sp"/>
 </RelativeLayout>
