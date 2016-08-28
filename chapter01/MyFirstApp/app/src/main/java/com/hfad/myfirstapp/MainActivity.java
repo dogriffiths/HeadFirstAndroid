@@ -24,10 +24,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         // Now we need to tell Android what the screen will look like. We do this with a "layout".
-        // A layout is an XML file which says what widgets will appear on the screen: things
+        // A layout is an XML file that says what widgets will appear on the screen: things
         // like text fields, and buttons, and rectangles full of flying aliens.
-        // To see what this layout looks, you should do take a look at the layout XML file in
-        // the res/layout/activity_main.xml file.
+        // To see what this layout looks, you should do take a look at the layout XML file called
+        // res/layout/activity_main.xml file.
         setContentView(R.layout.activity_main);
     }
 }
