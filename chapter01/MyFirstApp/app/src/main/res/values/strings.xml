@@ -1,6 +1,3 @@
 <resources>
     <string name="app_name">My First App</string>
-
-    <string name="hello_world">Sup doge</string>
-    <string name="action_settings">Settings</string>
 </resources>
