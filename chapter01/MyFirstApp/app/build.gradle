@@ -1,5 +1,8 @@
 apply plugin: 'com.android.application'
 
+apply plugin: 'jacoco'
+apply plugin: "org.sonarqube"
+
 android {
     compileSdkVersion 24
     buildToolsVersion "23.0.3"
@@ -24,3 +27,41 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.2.0'
 }
+
+def coverageSourceDirs = [
+        'src/main/java',
+]
+
+task sonarCoverage(dependsOn: ["jacocoTestReport", "sonarqube"]) {
+
+}
+
+task jacocoTestReport(type: JacocoReport, dependsOn: "testDebugUnitTest") {
+    group = "Reporting"
+    description = "Generate Jacoco coverage reports after running tests."
+    reports {
+        xml.enabled = true
+        html.enabled = true
+    }
+    classDirectories = fileTree(
+            dir: './build/intermediates/classes/debug',
+            excludes: ['**/R*.class',
+                       '**/BuildConfig*.class',
+                       '**/*$InjectAdapter.class',
+                       '**/*$ModuleAdapter.class',
+                       '**/*$ViewInjector*.class'
+            ])
+    sourceDirectories = files(coverageSourceDirs)
+    executionData = files("$buildDir/jacoco/testDebugUnitTest.exec")
+    // Bit hacky but fixes https://code.google.com/p/android/issues/detail?id=69174.
+    // We iterate through the compiled .class tree and rename $$ to $.
+    doFirst {
+        new File("$buildDir/intermediates/classes/").eachFileRecurse { file ->
+            if (file.name.contains('$$')) {
+                file.renameTo(file.path.replace('$$', '$'))
+            }
+        }
+    }
+}
+
+String[] reportXmlPath = ["**/jacoco/**/jacocoTestReport.xml"];

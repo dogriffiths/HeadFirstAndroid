@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+This is a layout file. It tells Android what to display on the screen.
+The main component in this layout is a RelativeLayout. Layouts are in charge of laying out
+components on the screen. A "relative" layout places the first component at the top-left of the
+screen.
+-->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -9,6 +15,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.hfad.myfirstapp.MainActivity">
 
+    <!--
+    This is the first component. It will be placed at the top-left of the screen.
+    -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
