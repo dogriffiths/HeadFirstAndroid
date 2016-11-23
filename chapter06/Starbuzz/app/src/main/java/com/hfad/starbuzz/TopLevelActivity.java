@@ -15,7 +15,8 @@ public class TopLevelActivity extends Activity {
         //Create an OnItemClickListener
         AdapterView.OnItemClickListener itemClickListener =
             new AdapterView.OnItemClickListener() {
-                public void onItemClick(AdapterView<?> listView,
+            @Override
+            public void onItemClick(AdapterView<?> listView,
                                         View v,
                                         int position,
                                         long id) {
