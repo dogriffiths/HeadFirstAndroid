@@ -81,7 +81,8 @@ public class DrinkActivity extends Activity {
         ContentValues drinkValues;
         protected void onPreExecute() {
             CheckBox favorite = (CheckBox)findViewById(R.id.favorite);
-            drinkValues = new ContentValues(); drinkValues.put("FAVORITE", favorite.isChecked());
+            drinkValues = new ContentValues();
+            drinkValues.put("FAVORITE", favorite.isChecked());
         }
         protected Boolean doInBackground(Integer... drinks) {
             int drinkNo = drinks[0];
