@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
             selectItem(position);
         }
-    };
+    }
 
     private ShareActionProvider shareActionProvider;
     private String[] titles;
