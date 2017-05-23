@@ -80,6 +80,7 @@ public class TopLevelActivity extends Activity {
         db.close();
     }
 
+    @Override
     public void onRestart() {
         super.onRestart();
         try {
